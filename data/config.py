@@ -3,7 +3,7 @@
 # # environs kutubxonasidan foydalanish
 # env = Env()
 # env.read_env()
-# kanallar = ['@sinov003','@sinov0033']
+kanallar = ['@sinov003','@sinov0033']
 # # .env fayl ichidan quyidagilarni o'qiymiz
 # BOT_TOKEN = env.str("BOT_TOKEN")  # Bot toekn
 # ADMINS = env.list("ADMINS")  # adminlar ro'yxati
